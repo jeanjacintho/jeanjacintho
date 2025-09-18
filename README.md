@@ -1,25 +1,44 @@
-## Hello, my name is Jean, I'm a Software Engineering student, I'm currently a front-end developer, but I'm learning the back-end part
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjacintho&layout=donut&theme=github_dark&hide_border=true"/>
 
-### Some of the languages ​​I know
+<p>
+ I'm a Full Stack Developer and Software Engineering student, experienced in building modern and scalable web applications.
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jean-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="jean-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="jean-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="jean-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="jean-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="jean-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">       
-</div>
-<br />
+<p>
+ Knowledge in <strong>Java</strong> and the Spring ecosystem, as well as <strong>React</strong>, <strong>Node.js</strong>, and relational databases such as <strong>PostgreSQL</strong>.  
+ I'm also studying <strong>Go</strong> to expand my back-end expertise and versatility.  
+</p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjacintho&layout=donut&langs_count=8&theme=github_dark)](https://github.com/jeanjacintho/)
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jeanjacintho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeanjacintho@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeanjacintho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p>
+ In addition to SQL, I also work with <strong>NoSQL databases</strong> (e.g., MongoDB, Prisma), applying the best solution depending on the application's needs.  
+</p>
 
+<p>
+ My focus is on writing clean, maintainable, and efficient code, while continuously exploring new technologies, software architecture, and development best practices.
+</p>
+
+<p>
+ Let's connect on
+</p>
+
+[![Linkedin: jeanjacintho](https://img.shields.io/badge/-jeanjacintho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanjacintho/)](https://www.linkedin.com/in/jeanjacintho/)
+[![Gmail Jean Jacintho](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jeanjacintho@gmail.com)](mailto:jeanjacintho@gmail.com)
+[![GitHub jeanjacintho](https://img.shields.io/github/followers/jeanjacintho?label=follow&style=social)](https://github.com/jeanjacintho)
+
+
+## 🛠️ Technologies and Tools
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,nodejs,react,typescript,javascript,html,css&theme=light" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=light" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" />
+</p>
