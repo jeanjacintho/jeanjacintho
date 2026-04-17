@@ -35,7 +35,7 @@
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,rabbitmq, jenkins, maven, github,docker,postman,vscode,idea&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,rabbitmq,jenkins,maven,github,docker,postman,vscode,idea&theme=light" />
 </p>
 
 ### 🗄️ Databases
