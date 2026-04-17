@@ -30,12 +30,12 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,nodejs,react,typescript,javascript,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,nodejs,react,typescript,javascript,html,css,cs&theme=light" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,rabbitmq, jenkins, maven, github,docker,postman,vscode,idea&theme=light" />
 </p>
 
 ### 🗄️ Databases
