@@ -30,15 +30,15 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,nodejs,react,typescript,javascript,html,css,cs&theme=light" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,nodejs,angularjs,javascript,typescript,reactjs,vuejs,csharp" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,rabbitmq,jenkins,maven,github,docker,postman,vscode,idea&theme=light" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,rabbitmq,jenkins,apachemaven,docker,bruno,visualstudiocode,intellijidea" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,oracle,firebasestudio,mongodb" />
 </p>
