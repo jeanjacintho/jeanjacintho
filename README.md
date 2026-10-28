@@ -1,44 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjacintho&layout=donut&theme=github_dark&hide_border=true"/>
-
-<p>
- I'm a Full Stack Developer and Software Engineering student, experienced in building modern and scalable web applications.
-</p>
-
-<p>
- Knowledge in <strong>Java</strong> and the Spring ecosystem, as well as <strong>React</strong>, <strong>Node.js</strong>, and relational databases such as <strong>PostgreSQL</strong>.  
- I'm also studying <strong>Go</strong> to expand my back-end expertise and versatility.  
-</p>
-
-<p>
- In addition to SQL, I also work with <strong>NoSQL databases</strong> (e.g., MongoDB, Prisma), applying the best solution depending on the application's needs.  
-</p>
-
-<p>
- My focus is on writing clean, maintainable, and efficient code, while continuously exploring new technologies, software architecture, and development best practices.
-</p>
-
-<p>
- Let's connect on
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img alt="Jean Jacintho, Full Stack Software Engineer: tech stack and hackathon win, typed in a terminal" src="assets/terminal-dark.svg" width="720">
+</picture>
 
 [![Linkedin: jeanjacintho](https://img.shields.io/badge/-jeanjacintho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanjacintho/)](https://www.linkedin.com/in/jeanjacintho/)
 [![Gmail Jean Jacintho](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jeanjacintho@gmail.com)](mailto:jeanjacintho@gmail.com)
 [![GitHub jeanjacintho](https://img.shields.io/github/followers/jeanjacintho?label=follow&style=social)](https://github.com/jeanjacintho)
-
-
-## 🛠️ Technologies and Tools
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,nodejs,angularjs,javascript,typescript,reactjs,vuejs,csharp" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,rabbitmq,jenkins,apachemaven,docker,bruno,visualstudiocode,intellijidea" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,oracle,firebasestudio,mongodb" />
-</p>
