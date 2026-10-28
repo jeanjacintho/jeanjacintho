@@ -5,10 +5,6 @@
 </p>
 
 <p>
- Currently a Software Developer at <strong>Multitherm Sistemas e Automação</strong>, an industrial automation company, building business applications with Java and Vue.js.
-</p>
-
-<p>
  I work with REST APIs, microservices, RabbitMQ and Docker, and build AI agents and LLM integrations with OpenAI, Gemini and Ollama. I also have 7+ years of experience building and optimizing Shopify stores.
 </p>
 
