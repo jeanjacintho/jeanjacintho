@@ -26,7 +26,7 @@ const CHAR_W = FONT_SIZE * 0.6;
 const LINE_H = 22;
 const PAD_X = 24;
 const BAR_H = 36;
-const WIDTH = 600;
+const WIDTH = 720;
 
 const TYPE_SPEED = 0.06;
 const START_DELAY = 0.6;
@@ -55,14 +55,24 @@ function buildSession(stats) {
     {
       cmd: 'cat stack.txt',
       out: [
-        [['back-end   ', 'key'], ['Java · Spring Boot · Node.js · RabbitMQ', 'text']],
-        [['front-end  ', 'key'], ['TypeScript · React · Next.js · Vue.js', 'text']],
-        [['ai         ', 'key'], ['Agents · OpenAI · Gemini · Ollama', 'text']],
+        [['back-end    ', 'key'], ['Java · Spring Boot · Node.js · REST · Microservices', 'text']],
+        [['front-end   ', 'key'], ['TypeScript · JavaScript · React · Next.js · Vue.js · Angular', 'text']],
+        [['mobile      ', 'key'], ['React Native · Swift', 'text']],
+        [['data        ', 'key'], ['PostgreSQL · MySQL · Oracle · MongoDB · Firebase', 'text']],
+        [['ai          ', 'key'], ['AI agents · Spring AI · OpenAI · Gemini · Ollama', 'text']],
+        [['devops      ', 'key'], ['Docker · RabbitMQ · Jenkins · Maven · Git', 'text']],
+        [['e-commerce  ', 'key'], ['Shopify · Liquid · SEO · CRO', 'text'], ['  (7+ years)', 'muted']],
+        [['practices   ', 'key'], ['Scrum · SOLID · Design Patterns', 'text']],
       ],
     },
     {
-      cmd: 'ls achievements/',
-      out: [[['★ ', 'accent'], ['hackathon-winner', 'text'], ['  Build Your First Hire', 'muted']]],
+      cmd: 'cat achievements/hackathon.md',
+      out: [
+        [['★ Winner', 'accent'], [' · Build Your First Hire hackathon by AI Worth Using', 'text']],
+        [['  built   ', 'key'], ['Meetly, a personal AI meeting agent', 'text']],
+        [['  picked  ', 'key'], ['by Tom Preston-Werner (GitHub co-founder)', 'text']],
+        [['  demoed  ', 'key'], ["at PWV's AgentCribs", 'text']],
+      ],
     },
     { cmd: 'uptime', out: [[['coding since ', 'muted'], [String(CODING_SINCE), 'text'], [` · ${years} years`, 'muted']]] },
   ];
