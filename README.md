@@ -1,21 +1,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjacintho&layout=donut&theme=github_dark&hide_border=true"/>
 
-### Hey, I'm Jean 👋
-
 <p>
- Full Stack Developer and Software Engineering student who likes to turn real problems into working software, from a Spring Boot microservice to a native macOS app.
+ Full Stack Developer and Software Engineering student.
 </p>
 
 <p>
- My foundation is <strong>Java</strong> and the <strong>Spring</strong> ecosystem on the back-end, with <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong> and <strong>Node.js</strong> on the rest of the stack, backed by <strong>PostgreSQL</strong> or <strong>MongoDB</strong>, whichever fits the problem.
+ I work mainly with <strong>Java</strong> and <strong>Spring Boot</strong> on the back-end and <strong>TypeScript</strong> with <strong>React</strong> and <strong>Next.js</strong> on the front-end, using <strong>PostgreSQL</strong>, <strong>MySQL</strong> and <strong>MongoDB</strong> for data.
 </p>
 
 <p>
- Lately I've been deep into <strong>AI agents</strong> and <strong>developer tools</strong>: building agents with LLMs, integrating models through <strong>Spring AI</strong> and OpenRouter, and writing in <strong>Python</strong> and <strong>Swift</strong> when the product asks for it.
+ Experience with REST APIs, microservices, authentication with JWT and Spring Security, messaging with RabbitMQ, containerization with Docker and LLM integration with Spring AI.
 </p>
 
 <p>
- I'm also learning <strong>Go</strong> to broaden my back-end toolbox, and I care about clean, maintainable code, solid architecture and shipping things people actually use.
+ Currently studying <strong>Go</strong> and software architecture.
 </p>
 
 <p>
@@ -31,20 +29,15 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,typescript,javascript,nodejs,reactjs,nextjs,angularjs,vuejs,python,swift,go,csharp" />
-</p>
-
-### 🤖 AI
-<p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=openai,claude,ollama" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,typescript,javascript,nodejs,reactjs,nextjs,angularjs,vuejs,python,swift,csharp" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,docker,rabbitmq,jenkins,apachemaven,vercel,bruno,visualstudiocode,intellijidea,xcode" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,docker,rabbitmq,jenkins,apachemaven,bruno,visualstudiocode,intellijidea" />
 </p>
 
-### 🗄️ Databases & ORMs
+### 🗄️ Databases
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,oracle,mongodb,firebase,prisma" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,oracle,mongodb,firebase" />
 </p>
