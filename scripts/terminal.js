@@ -59,11 +59,16 @@ function buildSession(stats) {
         [['front-end   ', 'key'], ['TypeScript · JavaScript · React · Next.js · Vue.js · Angular', 'text']],
         [['mobile      ', 'key'], ['React Native · Swift', 'text']],
         [['data        ', 'key'], ['PostgreSQL · MySQL · Oracle · MongoDB · Firebase', 'text']],
-        [['ai          ', 'key'], ['AI agents · Spring AI · OpenAI · Gemini · Ollama', 'text']],
+        [['ai agents   ', 'key'], ['OpenClaw · Hermes · Plow · Spring AI', 'text']],
+        [['llms        ', 'key'], ['Claude · GPT · Gemini · Grok · Llama · Ollama', 'text']],
         [['devops      ', 'key'], ['Docker · RabbitMQ · Jenkins · Maven · Git', 'text']],
         [['e-commerce  ', 'key'], ['Shopify · Liquid · SEO · CRO', 'text'], ['  (7+ years)', 'muted']],
         [['practices   ', 'key'], ['Scrum · SOLID · Design Patterns', 'text']],
       ],
+    },
+    {
+      cmd: 'cat now.md',
+      out: [[['building    ', 'key'], ['a team of AI agents that runs on your own AI subscriptions', 'text']]],
     },
     {
       cmd: 'cat achievements/hackathon.md',
