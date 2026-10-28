@@ -1,19 +1,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanjacintho&layout=donut&theme=github_dark&hide_border=true"/>
 
 <p>
- Full Stack Developer and Software Engineering student.
+ Full Stack Software Engineer building web, mobile and AI-powered products with <strong>Java/Spring Boot</strong> on the back end and <strong>TypeScript</strong> (React, Next.js, Vue.js) on the front end.
 </p>
 
 <p>
- I work mainly with <strong>Java</strong> and <strong>Spring Boot</strong> on the back-end and <strong>TypeScript</strong> with <strong>React</strong> and <strong>Next.js</strong> on the front-end, using <strong>PostgreSQL</strong>, <strong>MySQL</strong> and <strong>MongoDB</strong> for data.
+ Currently a Software Developer at <strong>Multitherm Sistemas e Automação</strong>, an industrial automation company, building business applications with Java and Vue.js.
 </p>
 
 <p>
- Experience with REST APIs, microservices, authentication with JWT and Spring Security, messaging with RabbitMQ, containerization with Docker and LLM integration with Spring AI.
+ I work with REST APIs, microservices, RabbitMQ and Docker, and build AI agents and LLM integrations with OpenAI, Gemini and Ollama. I also have 7+ years of experience building and optimizing Shopify stores.
 </p>
 
 <p>
- Currently studying <strong>Go</strong> and software architecture.
+ 🏆 Winner of the <strong>Build Your First Hire</strong> hackathon by AI Worth Using with Meetly, a personal meeting agent selected by Tom Preston-Werner and presented at PWV's AgentCribs.
 </p>
 
 <p>
@@ -29,7 +29,7 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,typescript,javascript,nodejs,reactjs,nextjs,angularjs,vuejs,python,swift,csharp" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,spring,nodejs,typescript,javascript,reactjs,nextjs,vuejs,angularjs,python,swift,csharp" />
 </p>
 
 ### ⚙️ DevOps & Tools
