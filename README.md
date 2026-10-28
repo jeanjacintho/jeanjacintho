@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img alt="Terminal typing: whoami, stack, achievements and uptime" src="assets/terminal-dark.svg" width="600">
+</picture>
+
 <p>
  Full Stack Software Engineer building web, mobile and AI-powered products with <strong>Java/Spring Boot</strong> on the back end and <strong>TypeScript</strong> (React, Next.js, Vue.js) on the front end.
 </p>
@@ -9,22 +14,6 @@
 <p>
  🏆 Winner of the <strong>Build Your First Hire</strong> hackathon by AI Worth Using with Meetly, a personal meeting agent selected by Tom Preston-Werner and presented at PWV's AgentCribs.
 </p>
-
-```bash
-$ whoami
-jean — full stack software engineer
-
-$ cat stack.txt
-back-end   java, spring boot, node.js
-front-end  typescript, react, next.js, vue
-ai         agents, openai, gemini, ollama
-
-$ ls achievements/
-hackathon-winner_build-your-first-hire
-
-$ echo $LEARNING
-go
-```
 
 <p>
  Let's connect on
